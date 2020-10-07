@@ -1,4 +1,4 @@
-# Creating a simple Web Map to display Restaurants in Kenya using Leaflet.JS.The JS will be able to pull restaurants data from a GeoJSON file(attached in this repo as /data)
+### Creating a simple Web Map to display Restaurants in Kenya using Leaflet.JS.The JS will be able to pull restaurants data from a GeoJSON file(attached in this repo as /data)
 
 
 ## Dependencies and Requirements

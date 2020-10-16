@@ -4,10 +4,12 @@
 ### Dependencies and Requirements
 ================================
 
-```lefletjs
+```
+lefletjs
 geoJSON
 web browser e.g Google chrome, Mozilla Firefox, or Edge
-Text editor e.g VS Code```
+Text editor e.g VS Code
+```
 
 ## Overview of the final product and everything
 

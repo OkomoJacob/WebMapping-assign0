@@ -4,10 +4,10 @@
 ### Dependencies and Requirements
 ================================
 
-lefletjs
+```lefletjs
 geoJSON
 web browser e.g Google chrome, Mozilla Firefox, or Edge
-Text editor e.g VS Code
+Text editor e.g VS Code```
 
 ## Overview of the final product and everything
 
@@ -15,18 +15,14 @@ I'm using a small dataset of .JSON, from which i'll use javaascript to pull the 
 
 ### Important Links
 ===============
+
 #(1) leaflet link = "https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"
 #(2) official leaflet documentation: "https://leafletjs.com"
 #(3) Other wonderfull tutorials : 
 "http://duspviz.mit.edu/web-map-workshop/leaflet-js/"
 
-
-* numpy for numerical compuation esp in the partial derivatives
-
-Python 3 is a preferable one for this
-
-
 ### Usage
+=========
 
 Just run clone this repo and run the index.html. This will automatically  render tis on the web page tp view the restaurants 
 
